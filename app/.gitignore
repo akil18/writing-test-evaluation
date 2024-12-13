@@ -2,7 +2,7 @@
 __pycache__
 .venv
 myenv
-band_assignment.txt
+band_assignments.txt
 .env
 api.py
 writing_task_evaluation.ipynb
