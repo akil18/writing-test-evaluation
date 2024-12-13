@@ -1,0 +1,9 @@
+.vercel
+__pycache__
+.venv
+myenv
+band_assignment.txt
+.env
+api.py
+writing_task_evaluation.ipynb
+writing_task_evaluation.py
